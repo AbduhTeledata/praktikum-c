@@ -1,11 +1,11 @@
 # GIT OVERVIEW
 ## Rules
 
-The student will graded:
+The student will be graded:
 
 <ol>
     <li>Presence must >70%</li>
-    <li>All Assigment must be uploaded to github (100%)</li>
+    <li>All Assignments must be uploaded to github (100%)</li>
     <li>Quiz</li>
     <li>UTS</li>
     <li>UAS</>
