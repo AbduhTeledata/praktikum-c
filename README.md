@@ -8,8 +8,10 @@ The student will be graded:
     <li>All Assignments must be uploaded to github (100%)</li>
     <li>Quiz</li>
     <li>UTS</li>
-    <li>UAS</>
+    <li>UAS</li>
 </ol>
+
+> Send link github assignments to email: `abduhsttmandala@gmail.com `
 
 ## Objectives
 
